@@ -1,0 +1,1 @@
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No existe tal interfaz «com.canonical.dbusmenu» en ruta de objeto /org/ayatana/bamf/window/58720264"

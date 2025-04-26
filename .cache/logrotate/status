@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/alumno/.cache/upstart/unity-settings-daemon.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/hud.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/unity7.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/at-spi2-registryd.log" 2025-4-12-10:10:5
+"/home/alumno/.cache/upstart/dbus.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/unity-panel-service.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/ssh-agent.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/bamfdaemon.log" 2025-4-12-10:10:5
+"/home/alumno/.cache/upstart/gnome-keyring-ssh.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/indicator-sound.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/update-notifier-release.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/gpg-agent.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/update-notifier-cds.log" 2016-11-28-22:6:55
+"/home/alumno/.cache/upstart/upstart-event-bridge.log" 2025-4-26-10:20:23
+"/home/alumno/.cache/upstart/window-stack-bridge.log" 2025-4-26-10:20:23

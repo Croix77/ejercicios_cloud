@@ -1,0 +1,5 @@
+ERROR 2025-04-26 10:47:23 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2025-04-26 10:47:23 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+ERROR 2025-04-26 10:47:23 nux.gestures_subscription GesturesSubscription.cpp:93 Failed to deactivate Geis subscription.
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
